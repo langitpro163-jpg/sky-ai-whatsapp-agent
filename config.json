@@ -1,0 +1,10 @@
+{
+    "phone_number": "",
+    "session_saved": false,
+    "auto_reconnect": true,
+    "api_endpoint": "https://api.nexray.eu.cc/ai/gemini",
+    "connected": false,
+    "pairing_code_generated": false,
+    "created_at": "",
+    "updated_at": ""
+}

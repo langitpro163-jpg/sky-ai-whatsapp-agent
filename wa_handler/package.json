@@ -1,0 +1,17 @@
+{
+    "name": "sky-ai-whatsapp-agent",
+    "version": "2.0.0",
+    "description": "WhatsApp AI Bot powered by Gemini - Connect AI to your WhatsApp",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "setup": "npm install"
+    },
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.7.4",
+        "pino": "^9.5.0"
+    },
+    "keywords": ["whatsapp", "bot", "gemini", "ai", "baileys"],
+    "license": "MIT"
+}
